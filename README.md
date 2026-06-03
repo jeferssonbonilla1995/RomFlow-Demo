@@ -54,7 +54,7 @@ RoomFlow es un sistema comercial **YA funcionando en establecimientos reales en 
 **Contáctame:**
 
 📧 bjeferssonvinicio@gmail.com 
-📍 Ecuador (entiendo SRI, facturación local, necesidades del mercado)  
+📍 Ecuador 
 💼 Implementación + capacitación + soporte
 
 ---
