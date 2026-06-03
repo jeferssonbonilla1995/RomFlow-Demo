@@ -59,15 +59,6 @@ RoomFlow es un sistema comercial **YA funcionando en establecimientos reales en 
 
 ---
 
-## 👨‍💻 Sobre mí
-
-Soy ingeniero en sistemas ecuatoriano. Trabajo 11 horas diarias ganando $900 al mes. Esto no me alcanza.
-
-**Por las noches construí RoomFlow.** Lo instalé en clientes reales. Ya funciona.
-
-Este producto es mi salida. Y puede ser la solución para tu negocio.
-
----
 
 ## 📄 Estado
 
@@ -75,8 +66,6 @@ Este producto es mi salida. Y puede ser la solución para tu negocio.
 ✅ Integración Arduino validada  
 ✅ Conexión con Microplus activa  
 ✅ Demo visual disponible  
-⬆️ Buscando nuevos clientes
 
----
 
-*Hecho en Ecuador, con tecnología, con hardware y con la convicción de que merezco más de $900 al mes.*
+
